@@ -1,1 +1,7 @@
-this is a test. change. checkout change
+<<<<<<< HEAD
+this is a test. change
+=======
+this is a test. change
+
+second test
+>>>>>>> debug
